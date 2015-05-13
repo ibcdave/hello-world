@@ -1,6 +1,3 @@
 # hello-world
-My first repository
 
-Hello GitHub!
-
-This is my first branch.  Woohoo.
+Udacity Front-End Web Development Nanodegree Project 0
